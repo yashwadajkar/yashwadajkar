@@ -37,7 +37,6 @@
 <a href="mailto:wadajkaryash@gmail.com"><img src="https://img.shields.io/badge/Email-wadajkaryash@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/yashwadajkar" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-yashwadajkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/yash_wadajkar" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Twitter-@yash_wadajkar-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://github.com/yashwadajkar" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-yashwadajkar-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </td>
