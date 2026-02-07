@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&lines=Technology+with+purpose.;Innovation+with+peace.;Meaning+first.+Money+follows.;Building+what+lasts." style="max-width:900px;width:100%;height:auto;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&lines=Technology+with+purpose.;Innovation+with+peace.;Building+what+lasts." style="max-width:900px;width:100%;height:auto;" />
 
 <p>
 <img src="https://img.shields.io/badge/Philosophy-Purpose--Driven-0A66C2?style=for-the-badge&labelColor=ffffff" alt="Philosophy badge" />
